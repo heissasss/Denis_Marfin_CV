@@ -12,8 +12,8 @@ Based in Belgrade, Serbia · Open to remote and hybrid opportunities
 
 Choose the version you need:
 
-- **[English CV (PDF)](CV/Denis_Marfin_CV_EN.pdf)**
-- **[Russian CV (PDF)](CV/Denis_Marfin_CV_RU.pdf)**
+- **[English CV (PDF)](Denis_Marfin_CV_EN.pdf)**
+- **[Russian CV (PDF)](Denis_Marfin_CV_RU.pdf)**
 
 ## Professional Focus
 
